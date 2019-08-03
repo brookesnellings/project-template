@@ -7,7 +7,7 @@ class App extends React.Component {
   }
 
   render() {
-    <p>Hello, world!</p>;
+    return <h1>Hello, world!</h1>;
   }
 }
 
