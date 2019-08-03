@@ -1,5 +1,5 @@
 {
-  "name": "template",
+  "name": "project-template",
   "version": "1.0.0",
   "description": "A React/Babel/Webpack/Express template for personal projects",
   "main": "index.js",
